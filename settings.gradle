@@ -1,0 +1,2 @@
+rootProject.name = "HM MusicPlayer"
+include ':app'
